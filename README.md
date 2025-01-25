@@ -1,8 +1,8 @@
 # lumen-swap
 
-Lumen Swap is a fast, secure, and low-cost swap dApp built on the Stellar blockchain. It enables seamless, trustless exchanges of Stellar Lumens (XLM) and other assets with an intuitive interface and instant transactions. Swap effortlessly and experience the power of Stellar!
+Lumen Swap is a fast, secure, and low-cost swap dApp built on the Stellar blockchain. It enables seamless, trustless exchanges of Stellar Lumens (XLM) and other assets with an intuitive interface and instant transactions. Swap effortlessly and experience the power of Stellar!<br/>
 
-<a href="https://lumen-swap.web.app/">Launch App</a>
+<a href="https://lumen-swap.web.app/">Launch App</a><br><br><br/>
 
 
 ![image](https://github.com/user-attachments/assets/5b5006c2-7015-4613-9668-9651d5c2ca25)
